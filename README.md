@@ -2,7 +2,7 @@ Hi, I 've created a series of CTF-style challenges as part of my Something Aweso
 The aim of these challenges were to provide an introduction to some common concepts in cybersecurity.
 
 First of all, I decided to explore Buffer Overflow Attacks.
-You can read about them here: https://github.com/4rk1/SomethingAwesome/blob/main/Buffer%20Overflow.pdf
+You can read about them here: [**Buffer Overflow**](https://github.com/4rk1/SomethingAwesome/blob/main/Buffer%20Overflow.pdf)
 
 Challenge 1:\
 Download the files **[bo_challenge1]** and **[bo_challenge1_redacted.c]**, can you find the vulnerability in the program?
