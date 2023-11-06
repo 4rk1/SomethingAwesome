@@ -13,7 +13,7 @@ You've also managed to gain access to the source code **[bo_challenge]**. Can yo
 inner peace?
 
 Next up I wanted to discuss cryptography and briefly look at its evolution from ancient times to the comforting security
-it can provide today: **[Cryptography.pdf]**
+it can provide today: [**Cryptography**](https://github.com/4rk1/SomethingAwesome/blob/main/Cryptography.pdf)
 
 Challenge 3:\
 It's week 7, you have had to take on all the work in your COMP1531 group project since all your teammates are useless. You're not
@@ -26,7 +26,7 @@ then you realise you've forgotten your password to your bank account. Can you na
 system **[rsa]** to get a new password and continue your trip?
 
 Finally I was intrigued by hashing. I know that it is a type of cryptography, but I felt that it deserved it's own section.
-I've given a brief explanation of what it is and some basic attacks **[Hashing.pdf]**
+I've given a brief explanation of what it is and some basic attacks [**Hashing**](https://github.com/4rk1/SomethingAwesome/blob/main/Hashing.pdf)
 
 Challenge 5:\
 There's only an hour until it's due but you've finally finished the Something Awesome project for COMP6841. You go to submit it
