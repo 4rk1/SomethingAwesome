@@ -1,6 +1,6 @@
 Hi, I 've created a series of CTF-style challenges as part of my Something Awesome project for COMP6841 at UNSW.
-The aim of these challenges were to provide an introduction to some common concepts in cybersecurity.  
-  
+The aim of these challenges were to provide an introduction to some common concepts in cybersecurity.
+\
 First of all, I decided to explore Buffer Overflow Attacks.
 You can read about them here: **[a relative link](Buffer Overflow.pdf)**
 
