@@ -23,7 +23,7 @@ sure if you're going to have time to do the wargame for COMP6841 this week, so y
 Challenge 4:\
 The stress from COMP1531 has ruined you. You decide to take a gap year and visit South Africa. You're having a great time, but
 then you realise you've forgotten your password to your bank account. Can you navigate the bank's confusing password reset
-system **[rsa]** to get a new password and continue your trip?
+system **[rsa]** to get a new password and continue your trip?\\\\\
 
 Finally I was intrigued by hashing. I know that it is a type of cryptography, but I felt that it deserved it's own section.
 I've given a brief explanation of what it is and some basic attacks **[Hashing.pdf]**
