@@ -1,6 +1,6 @@
 Hi, I 've created a series of CTF-style challenges as part of my Something Awesome project for COMP6841 at UNSW.
-The aim of these challenges were to provide an introduction to some common concepts in cybersecurity.
-
+The aim of these challenges were to provide an introduction to some common concepts in cybersecurity.  
+  
 First of all, I decided to explore Buffer Overflow Attacks.
 You can read about them here: **[a relative link](Buffer Overflow.pdf)**
 
@@ -11,9 +11,6 @@ Challenge 2:
 You've received information that the meaning of life is hidden somewhere within the program **[bo_challenge2_redacted.c]**. 
 You've also managed to gain access to the source code **[bo_challenge]**. Can you find the secret to achieve
 inner peace?
-
-
-
 
 Next up I wanted to discuss cryptography and briefly look at its evolution from ancient times to the comforting security
 it can provide today: **[Cryptography.pdf]**
@@ -27,9 +24,6 @@ Challenge 4:
 The stress from COMP1531 has ruined you. You decide to take a gap year and visit South Africa. You're having a great time, but
 then you realise you've forgotten your password to your bank account. Can you navigate the bank's confusing password reset
 system **[rsa]** to get a new password and continue your trip?
-
-
-
 
 Finally I was intrigued by hashing. I know that it is a type of cryptography, but I felt that it deserved it's own section.
 I've given a brief explanation of what it is and some basic attacks **[Hashing.pdf]**
