@@ -2,10 +2,10 @@ Hi, I 've created a series of CTF-style challenges as part of my Something Aweso
 The aim of these challenges were to provide an introduction to some common concepts in cybersecurity.
 
 First of all, I decided to explore Buffer Overflow Attacks.
-You can read about them here: [**Buffer Overflow**](https://github.com/4rk1/SomethingAwesome/blob/main/Buffer%20Overflow.pdf)
+You can read about them here: [Buffer Overflow](https://github.com/4rk1/SomethingAwesome/blob/main/Buffer%20Overflow.pdf)
 
 Challenge 1:\
-Download the files **[bo_challenge1]** and **[bo_challenge1_redacted.c]**, can you find the vulnerability in the program?
+Download the files [bo_challenge1](https://github.com/4rk1/SomethingAwesome/blob/main/bo_challenge1) and **[bo_challenge1_redacted.c]**, can you find the vulnerability in the program?
 
 Challenge 2:\
 You've received information that the meaning of life is hidden somewhere within the program **[bo_challenge2_redacted.c]**. 
@@ -13,7 +13,7 @@ You've also managed to gain access to the source code **[bo_challenge]**. Can yo
 inner peace?
 
 Next up I wanted to discuss cryptography and briefly look at its evolution from ancient times to the comforting security
-it can provide today: [**Cryptography**](https://github.com/4rk1/SomethingAwesome/blob/main/Cryptography.pdf)
+it can provide today: [Cryptography](https://github.com/4rk1/SomethingAwesome/blob/main/Cryptography.pdf)
 
 Challenge 3:\
 It's week 7, you have had to take on all the work in your COMP1531 group project since all your teammates are useless. You're not
@@ -26,7 +26,7 @@ then you realise you've forgotten your password to your bank account. Can you na
 system **[rsa]** to get a new password and continue your trip?
 
 Finally I was intrigued by hashing. I know that it is a type of cryptography, but I felt that it deserved it's own section.
-I've given a brief explanation of what it is and some basic attacks: [**Hashing**](https://github.com/4rk1/SomethingAwesome/blob/main/Hashing.pdf)
+I've given a brief explanation of what it is and some basic attacks: [Hashing](https://github.com/4rk1/SomethingAwesome/blob/main/Hashing.pdf)
 
 Challenge 5:\
 There's only an hour until it's due but you've finally finished the Something Awesome project for COMP6841. You go to submit it
