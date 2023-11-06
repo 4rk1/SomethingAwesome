@@ -95,10 +95,6 @@ int main(void) {
           printf("You logged in!\n");
           printf("Your secret number was %d.\n", accounts[account_index].secret_number);
           printf("Now logging out for security purposes.\n");
-        } else if (strcmp(admin_nm, login_name) == 0 && strcmp(admin_ps, login_password)) {
-          login_status = true;
-          printf("Welcome back admin! Here is the meaning of life: 42.\n");
-          return 0;
         } else {
           printf("Incorrect login details.\n");
         }
