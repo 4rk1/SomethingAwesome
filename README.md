@@ -26,7 +26,7 @@ then you realise you've forgotten your password to your bank account. Can you na
 system **[rsa]** to get a new password and continue your trip?
 
 Finally I was intrigued by hashing. I know that it is a type of cryptography, but I felt that it deserved it's own section.
-I've given a brief explanation of what it is and some basic attacks [**Hashing**](https://github.com/4rk1/SomethingAwesome/blob/main/Hashing.pdf)
+I've given a brief explanation of what it is and some basic attacks: [**Hashing**](https://github.com/4rk1/SomethingAwesome/blob/main/Hashing.pdf)
 
 Challenge 5:\
 There's only an hour until it's due but you've finally finished the Something Awesome project for COMP6841. You go to submit it
